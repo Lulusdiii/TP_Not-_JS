@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+#non {
+    position: relative;
+}
+
+#oui {
+    margin-top: 75px;
+}
+
+#non {
+    margin-top: 75px;
+}
